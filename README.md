@@ -42,4 +42,4 @@ test_calculadora.py ...... [100%]
 
 ## 👩‍💻 Desenvolvido por
 
-Jessica — para a disciplina de Qualidade de Software
+Jessica Furtado e Waldir Pontual — para a disciplina de Qualidade de Software
